@@ -169,7 +169,7 @@
 				TargetAttributes = {
 					475D10581A0E35AB000F699A = {
 						CreatedOnToolsVersion = 6.1;
-						DevelopmentTeam = VZ266K5KCR;
+						DevelopmentTeam = 642YBXL48G;
 						LastSwiftMigration = 0800;
 					};
 				};
@@ -366,7 +366,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = VZ266K5KCR;
+				DEVELOPMENT_TEAM = 642YBXL48G;
 				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
 				INFOPLIST_FILE = "Demo-iOS/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -386,7 +386,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DEVELOPMENT_TEAM = VZ266K5KCR;
+				DEVELOPMENT_TEAM = 642YBXL48G;
 				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
 				INFOPLIST_FILE = "Demo-iOS/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
